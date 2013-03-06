@@ -1,0 +1,27 @@
+C:\Users\Frank\Desktop\GE\R10\bin\Debug\R10 Inspection.exe.config
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\Interop.VBA.dll
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10 Inspection.vbproj.ResolveComReference.cache
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.alphabet.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.ChooseShift1.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.Confirmation.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.frmSummary.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.LampType.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.LampType2.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.LampType3.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.Auditor.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.Operator1.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.R10.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.R10Part2.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.R10Part3.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10_Inspection.Selection.resources
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10 Inspection.vbproj.GenerateResource.Cache
+C:\Users\Frank\Desktop\GE\R10\bin\Debug\R10 Inspection.exe.manifest
+C:\Users\Frank\Desktop\GE\R10\bin\Debug\R10 Inspection.application
+C:\Users\Frank\Desktop\GE\R10\bin\Debug\R10 Inspection.exe
+C:\Users\Frank\Desktop\GE\R10\bin\Debug\R10 Inspection.pdb
+C:\Users\Frank\Desktop\GE\R10\bin\Debug\R10 Inspection.xml
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10 Inspection.exe.manifest
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10 Inspection.application
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10 Inspection.exe
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10 Inspection.xml
+C:\Users\Frank\Desktop\GE\R10\obj\x86\Debug\R10 Inspection.pdb
